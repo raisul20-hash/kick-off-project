@@ -2,6 +2,8 @@
 
 > Notes based on a YouTube video discussing AI, ChatGPT, and the future of SEO.
 
+> Sources: https://www.youtube.com/watch?v=qIl1SLO1_gE
+
 ---
 
 ## Overview
